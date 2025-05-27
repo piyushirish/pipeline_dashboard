@@ -49,7 +49,6 @@
 
 
 
-import React from 'react'
 import { nodes } from './Nodes'
 import Node from '../Node'
 
