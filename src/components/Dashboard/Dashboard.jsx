@@ -49,7 +49,7 @@
 
 
 
-import { nodes } from './Nodes'
+import { nodes } from './nodes'
 import Node from '../Node'
 
 function Dashboard() {
