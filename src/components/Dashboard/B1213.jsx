@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-function B_12_13() {
+function B1213() {
   return (
     <div className="w-screen h-screen overflow-auto bg-white" >
         <p className='text-6xl bg-amber-300'>Number of wells </p>
@@ -15,4 +15,4 @@ function B_12_13() {
   )
 }
 
-export default B_12_13
+export default B1213
